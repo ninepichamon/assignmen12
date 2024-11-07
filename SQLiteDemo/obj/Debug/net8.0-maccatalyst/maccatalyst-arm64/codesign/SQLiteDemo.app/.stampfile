@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/ninetynine/SQLiteDemo/SQLiteDemo/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/ninetynine/SQLiteDemo/SQLiteDemo/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SQLiteDemo.app
